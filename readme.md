@@ -45,5 +45,5 @@ The updated image demonstrates a substantial reduction in reported vulnerabiliti
 
 ## 5. Uncompleted Steps
 
-[Enter any steps that could not be completed, one per line, or write `None` if all steps are complete.]
+`None`
 
