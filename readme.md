@@ -5,8 +5,8 @@
 - **Name:** Nitin Tripathi
 - **REGNO:** 202401100100169
 - **PORT:** 8069
-- **Docker Hub Username:** `[Enter your Docker Hub username]`
-- **Docker Hub Repository:** `[Enter your Docker Hub repository link after Stage 4]`
+- **Docker Hub Username:** `nitintripathi01`
+- **Docker Hub Repository:** `https://hub.docker.com/repository/docker/nitintripathi01/fest-backend/general`
 
 ## 2. AI Tools Used
 
@@ -15,7 +15,7 @@
 ## 3. Docker Hub Digest
 
 - **Image Version:** `1.0.0`
-- **Digest:** `[Leave blank until Stage 4 is completed]`
+- **Digest:** `sha256:57aca93a0d27c04880e42a32c960d24a97cae5cf4a96fc67fa7d2e3abfc0c82e`
 
 ## 4. Vulnerability Before-and-After Comparison
 
